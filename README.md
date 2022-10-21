@@ -28,6 +28,7 @@
 <br/>
 
 <a href="https://github.com/KaveriRaut">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaveriRaut&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveriRaut&theme=buefy&layout=compact" />
 </a>
 
@@ -38,4 +39,3 @@
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rautkaveri126-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
