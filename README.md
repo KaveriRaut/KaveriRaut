@@ -28,8 +28,8 @@
 <br/>
 
 <a href="https://github.com/KaveriRaut">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaveriRaut&theme=buefy&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveriRaut&theme=buefy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaveriRaut&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveriRaut&theme=buefy&layout=compact" />
 </a>
 
 <br/>
