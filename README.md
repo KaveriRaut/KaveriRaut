@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Studying Computer Engineering at Pune Institute of Computer Technology, Pune.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions using DSA.
-- 🎵 &nbsp; Reading books and learning guitar as hobbies/side hustles.
+- 📕 &nbsp; Reading books and learning guitar as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -27,8 +27,8 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/KaveriRaut">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveriRaut&theme=buefy&layout=compact" />
 </a>
 
 <br/>
