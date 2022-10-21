@@ -1,12 +1,11 @@
 
-<h2> Hey there! I'm Kaveri.</h2>
+<h2> Hey there👋! I'm Kaveri.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Engineering at Pune Institute of Computer Technology, Pune.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions using DSA.
+- 🎵 &nbsp; Reading books and learning guitar as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
