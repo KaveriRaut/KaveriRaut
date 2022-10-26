@@ -1,7 +1,7 @@
 
 <h2> Hey there👋! I'm Kaveri.</h2>
 
-<h3> 🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Engineering at Pune Institute of Computer Technology, Pune.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions using DSA.
