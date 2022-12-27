@@ -41,10 +41,11 @@
 
 <br/>
 
-<h3> 🤩 &nbsp;My Favourite Projects </h3>
-🎬 [Netflix2.0 Clone](https://github.com/KaveriRaut/Netflix2.0_Clone)
+## 🤩 My Favourite Projects :
+- [🎬Netflix2.0 Clone🎬](https://github.com/KaveriRaut/Netflix2.0_Clone)
+- [🤝PICT-Harmony🤝](https://github.com/KaveriRaut/PBL_Project_PICT-Harmony)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## 🤝🏻 &nbsp;Connect with Me :
 
 <a href="https://www.linkedin.com/in/rautkaveri126/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KaveriRaut-blue?style=flat-square&logo=linkedin"></a>
 </p>
