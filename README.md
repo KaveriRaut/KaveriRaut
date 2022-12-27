@@ -41,6 +41,9 @@
 
 <br/>
 
+<h3> 🤩 &nbsp;My Favourite Projects </h3>
+🎬 [Netflix2.0 Clone](https://github.com/KaveriRaut/Netflix2.0_Clone)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/rautkaveri126/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KaveriRaut-blue?style=flat-square&logo=linkedin"></a>
