@@ -1,6 +1,5 @@
 
 <h2> Hey there👋! I'm Kaveri.</h2>
-![Visitor Count](https://profile-counter.glitch.me/KaveriRaut/count.svg)
 
 
 
@@ -9,7 +8,6 @@
 - 🎓 &nbsp; Studying Computer Engineering at Pune Institute of Computer Technology, Pune.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions using DSA.
 - 📕 &nbsp; Reading books and learning guitar as hobbies or side hustles.
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -35,6 +33,8 @@
   ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=Web-Development&logoColor=00599C)&nbsp;
   ![DBMS](https://img.shields.io/badge/-DBMS-05122A?style=flat&logo=Web-Development&logoColor=00599C)&nbsp;
   ![Operating System](https://img.shields.io/badge/-OS-05122A?style=flat&logo=Web-Development&logoColor=00599C)&nbsp;
+- 👀 &nbsp;
+  ![Views](https://komarev.com/ghpvc/?username=KaveriRaut&color=blueviolet)&nbsp;
 <br/>
 
 <a href="https://github.com/KaveriRaut">
