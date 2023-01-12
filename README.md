@@ -1,6 +1,6 @@
 
 <h2> Hey there👋! I'm Kaveri.</h2>
-![GitHub Views](https://komarev.com/ghpvc/?username=KaveriRaut)
+![GitHub Views](https://komarev.com/ghpvc/?username=<KaveriRaut>)
 
 
 
