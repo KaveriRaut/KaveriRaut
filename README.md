@@ -1,6 +1,6 @@
 
 <h2> Hey there👋! I'm Kaveri.</h2>
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/KaveriRaut/count.svg)
 
 
 
