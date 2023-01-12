@@ -1,6 +1,6 @@
 
 <h2> Hey there👋! I'm Kaveri.</h2>
-![Profile views](https://gpvc.arturio.dev/[KaveriRaut])
+![Profile views](https://gpvc.arturio.dev/KaveriRaut)
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
