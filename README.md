@@ -1,7 +1,7 @@
 
 <h2> Hey there👋! I'm Kaveri.</h2>
 
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
