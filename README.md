@@ -44,8 +44,8 @@
 <br/>
 
 ## 🤩 My Favourite Projects :
-- [🎬Netflix2.0 Clone🎬](https://github.com/KaveriRaut/Netflix2.0_Clone)
-- [🤝PICT-Harmony🤝](https://github.com/KaveriRaut/PBL_Project_PICT-Harmony)
+- [🎬  Netflix2.0 Clone  🎬](https://github.com/KaveriRaut/Netflix2.0_Clone)
+- [🤝  PICT-Harmony  🤝](https://github.com/KaveriRaut/PBL_Project_PICT-Harmony)
 
 ## 🤝🏻 &nbsp;Connect with Me :
 
