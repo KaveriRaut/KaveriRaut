@@ -5,7 +5,7 @@
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Engineering at Pune Institute of Computer Technology, Pune.
+- 🎓 &nbsp; Pursuing Computer Engineering at Pune Institute of Computer Technology.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 📕 &nbsp; Reading books and learning guitar as hobbies or side hustles.
 <h3> 🛠 &nbsp;Tech Stack</h3>
