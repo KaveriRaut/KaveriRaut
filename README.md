@@ -50,6 +50,8 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/KaveriRaut?ext=heatmap)](https://leetcode.com/KaveriRaut)
 
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rautkaveri02&color=white)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 ## 🤩 My Favourite Projects :
 ### [🎬  Netflix2.0 Clone  🎬](https://github.com/KaveriRaut/Netflix2.0_Clone)
 ### [🤝  PICT-Harmony  🤝](https://github.com/KaveriRaut/PBL_Project_PICT-Harmony)
