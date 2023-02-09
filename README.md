@@ -46,6 +46,9 @@
 </a>
 
 <br/>
+<h3> 🛠 &nbsp;Coding Profiles</h3>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/KaveriRaut?ext=heatmap)](https://leetcode.com/KaveriRaut)
 
 ## 🤩 My Favourite Projects :
 ### [🎬  Netflix2.0 Clone  🎬](https://github.com/KaveriRaut/Netflix2.0_Clone)
