@@ -48,9 +48,10 @@
 <br/>
 <h3> 🛠 &nbsp;Coding Profiles</h3>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/KaveriRaut?ext=heatmap)](https://leetcode.com/KaveriRaut)
-
-![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rautkaveri02&theme=buefy&show_icons=true)
+<a href="https://github.com/KaveriRaut">
+<img height="230em" src="https://leetcard.jacoblin.cool/KaveriRaut?ext=heatmap&theme=buefy&show_icons=true" />
+<img height="180em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rautkaveri02&theme=buefy&layout=compact" />
+</a>
 
 ## 🤩 My Favourite Projects :
 ### [🎬  Netflix2.0 Clone  🎬](https://github.com/KaveriRaut/Netflix2.0_Clone)
