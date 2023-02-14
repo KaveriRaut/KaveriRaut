@@ -46,8 +46,8 @@
 </a>
 
 <br/>
-<h3> 🛠 &nbsp;Coding Profiles</h3>
-<!-- 
+<!-- <h3> 🛠 &nbsp;Coding Profiles</h3>
+
 <a href="https://github.com/KaveriRaut">
 <img height="230em" src="https://leetcard.jacoblin.cool/KaveriRaut?ext=heatmap&theme=buefy&show_icons=true" />
 <img height="180em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rautkaveri02&theme=buefy&layout=compact" />
