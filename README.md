@@ -9,8 +9,13 @@
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 📕 &nbsp; Reading books and learning guitar as hobbies or side hustles.
 
-<h3>🤝🏻 &nbsp;My Profiles</h3>
- <a href="https://www.linkedin.com/in/rautkaveri126/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KaveriRaut-blue?style=flat-square&logo=linkedin"></a>
+<h3>🤝🏻 &nbsp;Connect with me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rautkaveri126/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rautkaveri126/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/kaveri_raut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kaveri_raut" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/kaveriraut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kaveriraut/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rautkaveri02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rautkaveri02" height="30" width="40" /></a>
+</p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 
