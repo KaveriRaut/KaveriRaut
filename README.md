@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 📕 &nbsp; Reading books and learning guitar as hobbies or side hustles.
 
-<h3>🤝🏻 &nbsp;Connect with Me</h3>
+<h3>🤝🏻 &nbsp;My Profiles</h3>
  <a href="https://www.linkedin.com/in/rautkaveri126/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KaveriRaut-blue?style=flat-square&logo=linkedin"></a>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
