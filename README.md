@@ -36,7 +36,7 @@
   ![Operating System](https://img.shields.io/badge/-OS-05122A?style=flat&logo=Web-Development&logoColor=00599C)&nbsp;
 - 👀 &nbsp;
   ![Views](https://komarev.com/ghpvc/?username=KaveriRaut&color=blueviolet)&nbsp;
-<br/>
+
 
 <h3>🤝🏻 &nbsp;Connect with me</h3>
 <p align="left">
@@ -45,7 +45,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/kaveriraut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kaveriraut/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rautkaveri02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rautkaveri02" height="30" width="40" /></a>
 </p>
-
+<br/>
 <a href="https://github.com/KaveriRaut">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaveriRaut&theme=buefy&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveriRaut&theme=buefy&layout=compact" />
