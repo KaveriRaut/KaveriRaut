@@ -49,9 +49,10 @@
 <a href="https://github.com/KaveriRaut">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaveriRaut&theme=buefy&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveriRaut&theme=buefy&layout=compact" />
+ 
 </a>
-
 <br/>
+
 <!-- <h3> 🛠 &nbsp;Coding Profiles</h3>
 
 <a href="https://github.com/KaveriRaut">
@@ -59,9 +60,10 @@
 <img height="180em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rautkaveri02&theme=buefy&layout=compact" />
 </a> -->
 
+  
 ## 🤩 My Favourite Projects :
+### <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/97447480/219885244-a664473e-21f6-4507-be1c-d9fd3593a619.gif">
 ### [🎬  Netflix2.0 Clone  🎬](https://github.com/KaveriRaut/Netflix2.0_Clone)
 ### [🤝  PICT-Harmony  🤝](https://github.com/KaveriRaut/PBL_Project_PICT-Harmony)
 </p>
-
 
