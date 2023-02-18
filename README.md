@@ -62,7 +62,6 @@
 
   
 ## 🤩 My Favourite Projects :
-### <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/97447480/219885244-a664473e-21f6-4507-be1c-d9fd3593a619.gif">
 ### [🎬  Netflix2.0 Clone  🎬](https://github.com/KaveriRaut/Netflix2.0_Clone)
 ### [🤝  PICT-Harmony  🤝](https://github.com/KaveriRaut/PBL_Project_PICT-Harmony)
 </p>
