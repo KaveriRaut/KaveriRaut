@@ -37,14 +37,37 @@
 - 👀 &nbsp;
   ![Views](https://komarev.com/ghpvc/?username=KaveriRaut&color=blueviolet)&nbsp;
 
+<!-- Connect With Me Start -->
+<h2> Connect with me 
+	<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="65px" align="center"/>
+</h2>
 
-<h3>🤝🏻 &nbsp;Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rautkaveri126/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rautkaveri126/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kaveri_raut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kaveri_raut" height="30" width="40" /></a>
-<a href="https://leetcode.com/kaveriraut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kaveriraut/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rautkaveri02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rautkaveri02" height="30" width="40" /></a>
+
+<p align="center">
+<a href="mailto:rautkaveri123@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rautkaveri126/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="######" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=Portfolio&logoColor=white" /></a>
 </p>
+<!-- Connect With Me End -->
+
+<br>
+
+<!-- Problem Solving Handles Start -->
+
+<h2> Problem Solving Handles  
+	<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px align="center">
+</h2>
+
+<p align="center">
+<a href="https://www.codechef.com/users/kaveri_raut" target="_blank" rel="noopener noreferrer"><img alt="kaveriraut" src="https://img.shields.io/badge/codechef-%6C3B1C.svg?style=for-the-badge&logo=codechef&logoColor=white&color=6C3B1C"/></a>
+<a href="https://www.leetcode.com/KaveriRaut/" target="_blank" rel="noopener noreferrer"><img alt="kaveriraut" src="https://img.shields.io/badge/leetcode-%23ED8B00.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/rautkaveri02" target="_blank" rel="noopener noreferrer"><img alt="kaveriraut" src="https://img.shields.io/badge/gfg-%2300599C.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=green"/></a>
+</p>
+<!-- Problem Solving Handles Stop -->
+
+<br>
+
+
 <br/>
 <a href="https://github.com/KaveriRaut">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaveriRaut&theme=buefy&show_icons=true" />
