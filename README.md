@@ -1,6 +1,5 @@
-<!-- GitHub Intro Banner Start -->
-<img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<!-- GitHub Intro Banner End -->
+![banner](https://user-images.githubusercontent.com/97447480/220736999-eb6777a9-8ed9-44ad-bebd-a945bfef1a62.png)
+
 <h1 align="center"> Hii 👋, I'm < Kaveri Raut /></h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
