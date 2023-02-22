@@ -1,5 +1,4 @@
-
-<h2> Hey there👋! I'm Kaveri.</h2>
+<h1 align="center"> Hii 👋, I'm < Kaveri Raut /></h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
