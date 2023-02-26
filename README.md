@@ -2,7 +2,9 @@
 
 <h1 align="center"> Hii 👋, I'm < Kaveri Raut /></h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97447480/221402175-487ad901-777a-4d3b-93bc-f770652f078b.gif">
+
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> -->
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
@@ -67,7 +69,7 @@
 <!-- Problem Solving Handles Stop -->
 
 <br>
-
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <br/>
 <a href="https://github.com/KaveriRaut">
