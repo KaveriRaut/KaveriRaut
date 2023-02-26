@@ -69,7 +69,7 @@
 <!-- Problem Solving Handles Stop -->
 
 <br>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <br/>
 <a href="https://github.com/KaveriRaut">
