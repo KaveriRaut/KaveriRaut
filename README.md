@@ -1,5 +1,8 @@
-![banner](https://user-images.githubusercontent.com/97447480/220736999-eb6777a9-8ed9-44ad-bebd-a945bfef1a62.png)
+<!-- ![banner](https://user-images.githubusercontent.com/97447480/220736999-eb6777a9-8ed9-44ad-bebd-a945bfef1a62.png) -->
+<!-- ![sss](https://user-images.githubusercontent.com/97447480/221430086-da1b6f6b-5b9e-482c-ba9e-1fdea5bea5f0.png) -->
 
+ <img alt="Coding"  src="https://user-images.githubusercontent.com/97447480/221430086-da1b6f6b-5b9e-482c-ba9e-1fdea5bea5f0.png">
+ 
 <h1 align="center"> Hii 👋, I'm < Kaveri Raut /></h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97447480/221402175-487ad901-777a-4d3b-93bc-f770652f078b.gif">
