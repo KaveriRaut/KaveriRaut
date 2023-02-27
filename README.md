@@ -2,7 +2,7 @@
 <!-- ![sss](https://user-images.githubusercontent.com/97447480/221430086-da1b6f6b-5b9e-482c-ba9e-1fdea5bea5f0.png) -->
 
 <!--  <img alt="Coding"  src="https://user-images.githubusercontent.com/97447480/221430086-da1b6f6b-5b9e-482c-ba9e-1fdea5bea5f0.png"> -->
- 
+ <!-- <img align="right" alt="Coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">-->
 <h1 align="center"> Hii 👋, I'm < Kaveri Raut /></h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97447480/221402175-487ad901-777a-4d3b-93bc-f770652f078b.gif">
@@ -72,7 +72,7 @@
 <!-- Problem Solving Handles Stop -->
 
 <br>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
 
 <br/>
 <a href="https://github.com/KaveriRaut">
